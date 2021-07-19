@@ -4,7 +4,7 @@
 
  PyCharm لمشاهدة طريقة تحميل برنامج 
 
-[ انقر هنا  ]([https://www.youtube.com/watch?v=YxHplztMQMc])
+[ انقر هنا  ](https://www.youtube.com/watch?v=YxHplztMQMc)
 
  
 من خلال  New Project بعد الانتهاء من التحميل سوف تقوم بفتح  
